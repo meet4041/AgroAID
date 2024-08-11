@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soil Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: url("static/aerial-shot-beautiful-agricultural-green-field-near-mountains.jpg") no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+        .form-container {
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 12px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+            padding: 30px;
+            width: 100%;
+            max-width: 600px;
+            box-sizing: border-box;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .form-container:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+        h1 {
+            color: #007BFF;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 2.5em;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            font-size: 1.1em;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 1em;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        input[type="text"]:focus {
+            border-color: #007BFF;
+        }
+        input[type="submit"] {
+            background: #007BFF;
+            color: white;
+            border: none;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.3s;
+        }
+        input[type="submit"]:hover {
+            background: #0056b3;
+            transform: scale(1.05);
+        }
+        @media (max-width: 600px) {
+            .form-container {
+                padding: 20px;
+                max-width: 90%;
+            }
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="form-container">
+        <h1>Soil Prediction Form</h1>
+        <form action="prediction1" method="post">
+            <label for="N">Enter Nitrogen (%):</label>
+            <input type="text" id="N" name="N">
+            
+            <label for="P">Enter Phosphorus (%):</label>
+            <input type="text" id="P" name="P">
+            
+            <label for="K">Enter Potassium (%):</label>
+            <input type="text" id="K" name="K">
+            
+            <label for="fert">Enter Fertilizer (%):</label>
+            <input type="text" id="fert" name="fert">
+            
+            <input type="submit" value="Soil Prediction">
+        </form>
+    </div>
+    
+</body>
+</html>

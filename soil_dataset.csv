@@ -1,0 +1,300 @@
+N,P,K,Fertilizer,label
+4,2,2.5,1,Clayey
+4,4,4,2,laterite
+4,4,2,3,silty clay
+2,2.1,3.5,4,sandy
+2,3.9,2.1,5,coastal
+2.5,4,3,6,clay loam
+2.5,4,2,7,alluvial
+4.2,2.3,3.2,8,Clayey
+2,3.9,2.1,9,coastal
+2.9,3.5,3.9,10,silty clay
+4,2,2.5,11,alluvial
+4,2,3,12,laterite
+4,4,4,13,sandy
+4,2,2.5,14,clay loam
+2.5,4,2,15,sandy
+2.2,3.5,3.9,16,Clayey
+4,2,3,17,silty clay
+2.5,2,3,18,coastal
+2,2.1,3.5,19,laterite
+2,4,2.1,20,alluvial
+4,4,2,21,clay loam
+4,2,2.5,22,Clayey
+4,4,4,23,sandy
+4.2,2.3,3.2,24,silty clay
+2.2,3.5,3.9,25,coastal
+4.2,2.3,3.2,26,laterite
+2.5,2,3,27,alluvial
+2.2,3.5,3.9,28,clay loam
+4,4,2,29,Clayey
+2,2.1,3.5,30,sandy
+2.5,2,3,31,silty clay
+4,4,4,32,coastal
+4,4,1.9,33,alluvial
+2,3.9,2.1,34,laterite
+4,2,2.5,35,clay loam
+4,2,2.5,36,Clayey
+4,4,4,37,sandy
+4.2,2.3,3.2,38,silty clay
+2.5,4,2,39,coastal
+4,2,3,40,laterite
+2,2.1,3.5,41,alluvial
+4,4,4,42,clay loam
+4,4,2,43,Clayey
+2,2.1,3.5,44,sandy
+4,2,2.5,45,silty clay
+4.2,2.3,3.2,46,coastal
+4,4,4,47,laterite
+2,3.9,2.1,48,alluvial
+4,4,4,49,clay loam
+2.9,3.5,3.9,50,Clayey
+4,2,3,51,sandy
+2.5,4,3,52,silty clay
+2,2.1,3.5,53,coastal
+2.2,3.5,3.9,54,laterite
+2,2.1,3.5,55,alluvial
+2.2,3.5,3.9,56,clay loam
+4,2,2.5,57,Clayey
+4,4,4,58,sandy
+4,2,2.5,59,silty clay
+2,4,2.1,60,coastal
+4,2,2.5,61,laterite
+2.5,2,3,62,alluvial
+4,4,4,63,clay loam
+4,4,2,64,Clayey
+2,3.9,2.1,65,sandy
+4,2,2.5,66,silty clay
+4,4,4,67,coastal
+2.5,2,3,68,laterite
+2.2,3.5,3.9,69,alluvial
+2.5,4,2,70,clay loam
+4,4,4,71,sandy
+4,4,2,72,Clayey
+4,4,2,73,silty clay
+2,2.1,3.5,74,coastal
+2,3.9,2.1,75,laterite
+2,4,2.1,76,alluvial
+2.2,3.5,3.9,77,clay loam
+2.5,4,3,78,sandy
+4,4,2,79,Clayey
+4.2,2.3,3.2,80,silty clay
+4,2,3,81,coastal
+4,2,2.5,82,laterite
+2,3.9,2.1,83,alluvial
+2.5,4,2,84,clay loam
+4,4,4,85,sandy
+2.5,4,3,86,Clayey
+2.5,4,3,87,silty clay
+4,4,4,88,coastal
+2.5,4,3,89,laterite
+4,4,4,90,clay loam
+2.5,4,2,91,alluvial
+2,2.1,3.5,92,sandy
+4,2,2.5,93,Clayey
+4,4,2.1,94,coastal
+4,2,2.5,95,silty clay
+2,4,2.1,96,laterite
+4.2,2.3,3.2,97,clay loam
+4,4,2,98,sandy
+4.2,2.3,3.2,99,Clayey
+2,4,2.1,100,coastal
+4.2,2.3,3.2,101,silty clay
+2,2.1,3.5,102,laterite
+2.5,2,3,103,alluvial
+4,2,3,104,clay loam
+4,4,4,105,sandy
+4,2,3,106,Clayey
+2.5,4,3,107,coastal
+4.2,2.3,3.2,108,silty clay
+4,4,4,109,laterite
+2,4,2.1,110,clay loam
+4,4,2,111,sandy
+2.5,4,3,112,Clayey
+4,4,2.2,113,coastal
+4.2,2.3,3.2,114,silty clay
+4,4,4,115,clay loam
+2,4,2.1,116,laterite
+2,3.9,2.1,117,coastal
+4,4,4,118,silty clay
+2.5,2,3,119,clay loam
+2,3.9,2.1,120,laterite
+2.2,3.5,3.9,121,Clayey
+4.2,2.3,3.2,122,sandy
+4,4,4,123,coastal
+2,2.1,3.5,124,silty clay
+2.5,2,3,125,clay loam
+4,4,4,126,sandy
+4,2,2.5,127,Clayey
+4,4,2.3,128,coastal
+2,4,2.1,129,silty clay
+2.5,2,3,130,sandy
+2,4,2.1,131,coastal
+2.5,4,3,132,Clayey
+4,2,3,133,silty clay
+2.5,2,3,134,Clayey
+2,2.1,3.5,135,coastal
+2.5,4,2,136,silty clay
+2.5,2,3,137,sandy
+4,2,2.5,138,sandy
+2.5,2,3,139,coastal
+4,4,4,140,Clayey
+2.5,4,2,141,silty clay
+4,2,2.5,142,Clayey
+4,4,2.5,143,sandy
+2.5,2,3,144,coastal
+2.5,2,3,145,silty clay
+2,2.1,3.5,146,Clayey
+2.5,4,2,147,silty clay
+2.5,2,3,148,coastal
+4,4,4,149,sandy
+4,2,2.5,150,coastal
+4,2,3,151,Clayey
+2.5,2,3,152,silty clay
+4,4,4,153,sandy
+2,2.1,3.5,154,coastal
+2.5,4,2,155,silty clay
+2.2,3.5,3.9,156,Clayey
+2,2.1,3.5,157,Clayey
+2,4,2,158,silty clay
+4,4,4,159,sandy
+2,3.9,2.1,160,coastal
+4,4,4,161,coastal
+4,4,2,162,sandy
+2.5,2,3,163,silty clay
+4,4,4,164,Clayey
+2.5,4,2,165,Clayey
+2,4,2.1,166,silty clay
+4,4,4,167,sandy
+4,4,4,168,coastal
+4,4,4,169,Clayey
+4.2,2.3,3.2,170,silty clay
+4,4,4,171,coastal
+2,4,2.1,172,sandy
+4,4,4,173,sandy
+2,2.1,3.5,174,silty clay
+2,2.1,3.5,175,coastal
+2.5,4,3,176,Clayey
+4.2,2.3,3.2,177,silty clay
+4.2,2.3,3.2,178,Clayey
+4.2,2.3,3.2,179,sandy
+2.5,2,3,180,silty clay
+2,4,2.1,181,Clayey
+2,3.9,2.1,182,sandy
+4,2,3,183,Clayey
+2.5,2,3,184,silty clay
+2,3.9,2.1,185,sandy
+2.5,2,3,186,Clayey
+2.5,4,2,187,silty clay
+2.5,2,3,188,sandy
+4.2,2.3,3.2,189,silty clay
+2.5,4,2,190,Clayey
+2,3.9,2.1,191,sandy
+4.2,2.3,3.2,192,sandy
+2.2,3.5,3.9,193,Clayey
+2.5,4,2,194,silty clay
+2.5,4,2,195,Clayey
+4,2,3,196,silty clay
+2,3.9,2.1,197,Clayey
+2,2.1,3.5,198,silty clay
+4.2,2.3,3.2,199,silty clay
+2.5,4,2,200,silty clay
+37,0,0,201,Sandy
+12,36,0,202,Loamy
+7,30,9,203,Black
+22,20,0,204,Red
+35,0,0,205,Clayey
+12,13,10,206,Sandy
+9,10,0,207,Red
+41,0,0,208,Loamy
+21,18,0,209,Sandy
+9,30,7,210,Black
+13,40,0,211,Clayey
+14,12,15,212,Sandy
+36,0,0,213,Loamy
+24,22,0,214,Clayey
+14,41,0,215,Red
+10,14,13,216,Black
+38,0,0,217,Clayey
+21,19,0,218,Sandy
+39,0,0,219,Black
+13,36,0,220,Loamy
+10,9,0,221,Sandy
+12,12,14,222,Loamy
+11,37,0,223,Red
+36,0,0,224,Black
+13,10,0,225,Clayey
+23,20,0,226,Sandy
+9,29,9,227,Red
+38,0,0,228,Loamy
+12,39,0,229,Black
+14,13,0,230,Clayey
+24,23,0,231,Red
+12,40,0,232,Loamy
+39,0,0,233,Clayey
+7,30,9,234,Sandy
+23,19,0,235,Loamy
+41,0,0,236,Black
+8,31,10,237,Loamy
+12,41,0,238,Clayey
+15,11,14,239,Red
+15,37,0,240,Sandy
+13,13,0,241,Clayey
+10,32,7,242,Loamy
+22,24,0,243,Red
+35,0,0,244,Black
+10,35,0,245,Sandy
+8,28,8,246,Loamy
+12,8,0,247,Black
+24,18,0,248,Clayey
+41,0,0,249,Red
+5,29,9,250,Sandy
+23,21,0,251,Red
+13,14,0,252,Black
+40,0,0,253,Clayey
+12,42,0,254,Sandy
+11,15,12,255,Red
+23,24,0,256,Black
+38,0,0,257,Loamy
+8,15,0,258,Sandy
+11,15,13,259,Loamy
+15,37,0,260,Red
+36,0,0,261,Clayey
+13,9,0,262,Loamy
+24,20,0,263,Black
+5,15,18,264,Sandy
+37,0,0,265,Black
+15,40,0,266,Red
+9,13,0,267,Black
+8,33,8,268,Loamy
+6,16,19,269,Clayey
+10,14,0,270,Sandy
+21,23,0,271,Clayey
+39,0,0,272,Red
+23,19,0,273,Loamy
+42,0,0,274,Black
+13,39,0,275,Red
+9,22,10,276,Clayey
+22,21,0,277,Sandy
+10,15,0,278,Loamy
+7,20,16,279,Clayey
+14,38,0,280,Red
+10,29,8,281,Clayey
+41,0,0,282,Sandy
+14,35,0,283,Black
+11,9,0,284,Loamy
+21,28,0,285,Sandy
+8,31,7,286,Clayey
+13,16,17,287,Red
+35,0,0,288,Black
+12,19,18,289,Loamy
+11,38,0,290,Loamy
+8,30,9,291,Black
+6,21,19,292,Clayey
+41,0,0,293,Red
+9,30,10,294,Sandy
+24,19,0,295,Clayey
+4,17,17,296,Red
+39,0,0,297,Loamy
+15,41,0,298,Sandy
+12,10,0,299,Black
